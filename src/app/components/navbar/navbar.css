@@ -30,3 +30,7 @@
 .nav-links a:hover {
   color: #5b9dff;
 }
+
+.search-container {
+  position: relative;
+}
